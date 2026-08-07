@@ -1,0 +1,7 @@
+a= int (input("enter a:"))
+b= int (input("enter b:"))
+
+add = a+b
+mul = a*b
+print(add)
+print(mul)
