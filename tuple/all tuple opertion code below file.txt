@@ -1,0 +1,23 @@
+✅ Add
+✅ Extend
+✅ Insert
+✅ Remove
+✅ Pop
+✅ Pop by index
+✅ Index
+✅ Count
+✅ Sort
+✅ Reverse sort
+✅ Reverse
+✅ Copy
+✅ Clear
+✅ Length
+✅ Maximum
+✅ Minimum
+✅ Sum
+✅ Membership (in)
+✅ Not membership (not in)
+✅ Slicing
+✅ Concatenation
+✅ Repetition
+✅ Indexing (first/last element)
