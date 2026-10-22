@@ -1,0 +1,7 @@
+cart = []
+cart.append("Milk")
+cart.append("Bread")
+print(cart)
+cart.remove("Milk")
+print("Bread" in cart)
+print("Total items:", len(cart))
